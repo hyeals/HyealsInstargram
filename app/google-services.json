@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431680279953",
+    "firebase_url": "https://hyealsinstargramf16.firebaseio.com",
+    "project_id": "hyealsinstargramf16",
+    "storage_bucket": "hyealsinstargramf16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431680279953:android:c1c5ae354593a4cb9bf630",
+        "android_client_info": {
+          "package_name": "com.example.hyealsinstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431680279953-5mv2r44b99r2g2u4h98483385ln64neq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyealsinstargram",
+            "certificate_hash": "a5160150eba65961c7b834cae1a97e9972cb4a1c"
+          }
+        },
+        {
+          "client_id": "431680279953-0svjdf2mq9j9bvmiqfkkg4182cf6jn6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOaWUakPo8a7EB1fB4I0sptB2zCNBkhFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431680279953-0svjdf2mq9j9bvmiqfkkg4182cf6jn6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
